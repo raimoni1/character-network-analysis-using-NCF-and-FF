@@ -1,0 +1,15 @@
+Mrinmoyee,Mrinmoyee,8
+Apoorva,Yogmaya,22
+Apoorva,Apoorva,1
+Mrinmoyee,Yogmaya,7
+Apoorva,Mrinmoyee,36
+Mrinmoyee,Ishanee,5
+Mrinmoyee,Postman,2
+Mrinmoyee,Boatman,1
+Mrinmoyee,Banamali,6
+Mrinmoyee,Sarat,2
+Apoorva,Nirupama,2
+Apoorva,Sister_of_Apoorva,10
+Apoorva,Brother_in_law_of_Apoorva,4
+Sister_of_Apoorva,Brother_in_law_of_Apoorva,4
+Mrinmoyee,Maid,2

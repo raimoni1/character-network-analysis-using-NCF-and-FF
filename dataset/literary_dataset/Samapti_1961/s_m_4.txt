@@ -1,0 +1,16 @@
+Apoorva,Boatman_1,4
+Apoorva,Boatman_2,1
+Apoorva,Yogmaya,160
+Apoorva,Haripada,27
+Apoorva,Nirupama,2
+Apoorva,Kishoree,12
+Kishoree,Nirupama,11
+Mrinmoyee,Sarat,26
+Rakhal,Mrinmoyee,35
+Yogmaya,Haripada,3
+Yogmaya,Mrinmoyee,36
+Apoorva,Mrinmoyee,102
+Yogmaya,Group_of_People,1
+Yogmaya,Belarani,31
+Apoorva,Sarat,9
+Sarat,Rakhal,1
